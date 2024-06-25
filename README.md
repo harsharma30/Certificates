@@ -1,3 +1,3 @@
 <html>
-  <img src="">
+  <img src="cert.gif">
 </html>
